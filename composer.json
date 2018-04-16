@@ -1,0 +1,24 @@
+{
+    "name": "Team_apt/test_composer",
+    "description": "Phrase parser",
+    "authors": [
+        {
+            "name": "Anupreet Kaur",
+            "email": "anupreet.kaur@sjsu.edu"
+        },
+	{
+             "name": "Priyatha Joji Abraham",
+			 "email": "priyathajoji@gmail.com"
+        },
+	{
+            "name": "Tina Philip",
+            "email": "talk2tinaphilip@gmail.com"
+        }
+    ],
+    "config": {
+        "secure-http": false
+    },
+    "require": {
+        "seekquarry/yioop": ">=3.4.0"
+    }
+}
